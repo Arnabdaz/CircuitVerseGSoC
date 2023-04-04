@@ -1,0 +1,3 @@
+[submodule "vuesimulator"]
+	path = vuesimulator
+	url = https://github.com/Arnabdaz/cv-frontend-vue-gsoc.git
